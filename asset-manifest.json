@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://lazylion22.github.io/csb-u64um/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://lazylion22.github.io/csb-u64um/static/js/main.6ab3c326.chunk.js",
-    "main.js.map": "https://lazylion22.github.io/csb-u64um/static/js/main.6ab3c326.chunk.js.map",
-    "runtime-main.js": "https://lazylion22.github.io/csb-u64um/static/js/runtime-main.445b384b.js",
-    "runtime-main.js.map": "https://lazylion22.github.io/csb-u64um/static/js/runtime-main.445b384b.js.map",
-    "static/js/2.477fc149.chunk.js": "https://lazylion22.github.io/csb-u64um/static/js/2.477fc149.chunk.js",
-    "static/js/2.477fc149.chunk.js.map": "https://lazylion22.github.io/csb-u64um/static/js/2.477fc149.chunk.js.map",
-    "index.html": "https://lazylion22.github.io/csb-u64um/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://lazylion22.github.io/csb-u64um/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.477fc149.chunk.js.LICENSE.txt": "https://lazylion22.github.io/csb-u64um/static/js/2.477fc149.chunk.js.LICENSE.txt"
+    "main.css": "https://lazylion22.github.io/Playgrounds-Search/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lazylion22.github.io/Playgrounds-Search/static/js/main.6ab3c326.chunk.js",
+    "main.js.map": "https://lazylion22.github.io/Playgrounds-Search/static/js/main.6ab3c326.chunk.js.map",
+    "runtime-main.js": "https://lazylion22.github.io/Playgrounds-Search/static/js/runtime-main.445b384b.js",
+    "runtime-main.js.map": "https://lazylion22.github.io/Playgrounds-Search/static/js/runtime-main.445b384b.js.map",
+    "static/js/2.477fc149.chunk.js": "https://lazylion22.github.io/Playgrounds-Search/static/js/2.477fc149.chunk.js",
+    "static/js/2.477fc149.chunk.js.map": "https://lazylion22.github.io/Playgrounds-Search/static/js/2.477fc149.chunk.js.map",
+    "index.html": "https://lazylion22.github.io/Playgrounds-Search/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lazylion22.github.io/Playgrounds-Search/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.477fc149.chunk.js.LICENSE.txt": "https://lazylion22.github.io/Playgrounds-Search/static/js/2.477fc149.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.445b384b.js",
